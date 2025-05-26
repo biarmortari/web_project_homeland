@@ -8,10 +8,10 @@ Foi criado como o quinto projeto do bootcamp de Desenvolvimento Web, com foco no
 
 # Tecnologias utilizadas
 
-HTML5
-CSS3
-Flexbox
-Design web responsivo
+- HTML5
+- CSS3
+- Flexbox
+- Design web responsivo
 
 ## Desafios enfrentados
 
