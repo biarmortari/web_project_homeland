@@ -1,0 +1,115 @@
+.intro {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto auto 0;
+  padding-top: 92px;
+  padding-left: 148px;
+  max-width: 830px;
+}
+
+.intro__title {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 54px;
+  line-height: 58px;
+  text-align: left;
+  color: #ffffff;
+  margin: 0 auto;
+}
+
+.intro__quote {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 34px;
+  text-align: left;
+  color: #ffffff;
+  margin: 0;
+  padding-top: 40px;
+  max-width: 738px;
+}
+
+.intro__quote-author {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 34px;
+  text-align: right;
+  color: #ffffff;
+  margin: 0;
+  padding-top: 10px;
+  text-align: right;
+  max-width: 732px;
+}
+
+.intro__text {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 163%;
+  text-align: left;
+  color: #ffffff;
+  margin: 0;
+  padding-top: 60px;
+  max-width: 725px;
+}
+
+@media screen and (max-width: 1024px) {
+  .intro {
+    width: 93%;
+    padding-top: 90px;
+    padding-left: 24px;
+  }
+
+  .intro__title {
+    font-size: 45px;
+    line-height: 49px;
+  }
+
+  .intro__quote {
+    font-size: 24px;
+    line-height: 34px;
+  }
+
+  .intro__quote-author {
+    font-size: 24px;
+    line-height: 34px;
+  }
+
+  .intro__text {
+    font-size: 16px;
+    line-height: 163%;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .intro {
+    width: 90%;
+    padding-top: 64px;
+    padding-left: 24px;
+  }
+
+  .intro__title {
+    font-size: 32px;
+    line-height: 35px;
+  }
+
+  .intro__quote {
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .intro__quote-author {
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .intro__text {
+    font-size: 16px;
+    line-height: 163%;
+  }
+}
