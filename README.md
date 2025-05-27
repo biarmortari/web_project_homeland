@@ -28,3 +28,5 @@ Como possíveis evoluções, considero:
 - Incluir **links interativos** e **botões** que direcionem para conteúdos relacionados;
 - Trabalhar com **animações** ou efeitos visuais para tornar a experiência mais atrativa;
 - Tornar o conteúdo mais dinâmico com **JavaScript** no futuro.
+
+Visite o site ao vivo: https://biarmortari.github.io/web_project_homeland/
