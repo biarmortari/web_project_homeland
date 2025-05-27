@@ -2,22 +2,33 @@
   display: flex;
   justify-content: center;
   margin: 0 auto;
-  padding-top: 92px;
-  padding-bottom: 20px;
+  padding: 46px 0 24px;
 }
 
 .footer__copyright {
-  width: 166px;
+  font-size: 18px;
+  line-height: 22px;
+  margin: 0;
 }
 
 @media screen and (max-width: 1024px) {
   .footer {
     padding-top: 88px;
   }
+
+  .footer__copyright {
+    font-size: 16px;
+    line-height: 20px;
+  }
 }
 
 @media screen and (max-width: 544px) {
   .footer {
     padding-top: 64px;
+  }
+
+  .footer__copyright {
+    font-size: 14px;
+    line-height: 18px;
   }
 }
