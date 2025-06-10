@@ -121,8 +121,6 @@
     font-size: 16px;
   }
 
-}
-
 @media screen and (max-width: 544px) {
   .place {
     display: flex;
