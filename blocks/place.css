@@ -132,21 +132,25 @@
     font-size: 32px;
     line-height: 35px;
     padding: 0 0 0 16px;
+    align-self: center;
   }
 
   .place__website {
     padding: 0 0 0 16px;
+    align-self: center;
   }
 
   .place__paragraph-text {
     max-width: 288px;
     font-size: 16px;
     padding: 0 0 0 16px;
+    align-self: center;
   }
 
   .place__image {
     width: 320px;
     height: 320px;
+    align-self: center;
   }
 
   .place__button {
